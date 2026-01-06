@@ -10,6 +10,7 @@ Ethical Hacker | TryHackMe India Rank 9th | Penetration Testing & Cybersecurity
 
 ---
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm15eWh2MWlibnF2MHdocWI1NnRqYXZzajZ0eGM2MG84dGRzdDB4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="200">
 
 ## 🧠 About Me
 
@@ -18,7 +19,6 @@ Ethical Hacker | TryHackMe India Rank 9th | Penetration Testing & Cybersecurity
 - 🧪 Strong focus on **Manual Exploitation**
 - 🏆 **#9 in INDIA & Top 1% Globally on TryHackMe**
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHViamNjanJmdTVydHcxcW9jM3VuOHJnNWwwbjQzM3RoZnFpN2FlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200">
 ---
 
 

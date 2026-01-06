@@ -1,16 +1,110 @@
-# 💫 About Me:
-🔭 I’m currently working on Ethical Hacking Projects<br>👯 I’m looking to collaborate on Web Security Projects.<br>🤝 I’m looking for help with Pentesting and other hacking stuff.<br>🌱 I’m currently learning Pentesting.<br>💬 Ask me about Hacking.<br>
+<h1 align="center">Hi 👋, I'm Sayyed Faiz</h1>
 
+<p align="center">
+  <img src="J0/215911.gif" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayyed-faiz666/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayyedfaiz350@gmail.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/Dedsec666) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dedsec-6-6-6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dedsec-6-6-6&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dedsec-6-6-6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h4 align="center">
+Ethical Hacker | TryHackMe India Rank 9th | Penetration Testing & Cybersecurity
+</h4>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dedsec-6-6-6&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=YousefDaaoud">
+    <img src="https://komarev.com/ghpvc/?username=YousefDaaoud&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/YousefDaaoud?tab=followers">
+    <img src="https://img.shields.io/github/followers/YousefDaaoud?label=Followers" />
+  </a>
+</p>
+
+---
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="260">
+
+## 🧠 About Me
+
+- 🛡️ **Penetration Tester**
+- 🏢 Enterprise Web, API & Infrastructure Security Assessments
+- 🧪 Strong focus on **Manual Exploitation**
+- 🏆 **#9 in INDIA & Top 1% Globally on TryHackMe**
+- 📫 Reach me at: <a href="mailto:sayyedfaiz350@gmail.com"><code>sayyedfaiz350@gmail.com</code></a>
+
+---
+
+
+## 🛠️ Skills & Tools
+
+**Offensive Security**  
+OWASP Top 10 • Business Logic Exploitation • Auth Bypass • EDR Evasion
+
+**Tools**  
+Burp Suite Pro • Nmap • Nessus • Metasploit • ffuf
+
+**Programming**  
+Python • HTML/CSS/JS • Bash • PowerShell
+
+**Platforms**  
+Active Directory • Windows Internals • Linux
+
+**Methodologies**  
+OWASP 
+---
+
+## 🎓 Certifications
+
+- 🥇 OPSWAT - Introduction to CIP
+- 🥈 Alison - Diploma in Ethical Hacking
+- 📘 Alison - Diploma in Penetration Consultant
+
+---
+
+## 🌍 Languages
+
+- Hindi — Native  
+- English — Full Professional Proficiency  
+
+---
+
+## 📊 GitHub Stats
+
+<h3>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35">
+</h3>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dedsec-6-6-6&theme=monokai" width="100%">
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dedsec-6-6-6&theme=monokai" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dedsec-6-6-6&theme=monokai" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dedsec-6-6-6&theme=monokai" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dedsec-6-6-6&theme=monokai&utcOffset=8" width="24%">
+</p>
+
+---
+
+## 📩 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayyed-faiz666">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sayyedfaiz350@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://tryhackme.com/p/Dedsec666">
+    <img src="https://img.shields.io/badge/TryHackMe-9FEF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="90">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="90">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="90">
+</p>
+
+---

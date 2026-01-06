@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayyed Faiz</h1>
 
 <p align="center">
-  <img src="J0/215911.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm15eWh2MWlibnF2MHdocWI1NnRqYXZzajZ0eGM2MG84dGRzdDB4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif" />
 </p>
 
 <h4 align="center">
@@ -10,18 +10,7 @@ Ethical Hacker | TryHackMe India Rank 9th | Penetration Testing & Cybersecurity
 
 ---
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=YousefDaaoud">
-    <img src="https://komarev.com/ghpvc/?username=YousefDaaoud&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <a href="https://github.com/YousefDaaoud?tab=followers">
-    <img src="https://img.shields.io/github/followers/YousefDaaoud?label=Followers" />
-  </a>
-</p>
-
----
-
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="260">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm15eWh2MWlibnF2MHdocWI1NnRqYXZzajZ0eGM2MG84dGRzdDB4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="260">
 
 ## 🧠 About Me
 

@@ -10,7 +10,6 @@ Ethical Hacker | TryHackMe India Rank 9th | Penetration Testing & Cybersecurity
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHViamNjanJmdTVydHcxcW9jM3VuOHJnNWwwbjQzM3RoZnFpN2FlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200">
 
 ## 🧠 About Me
 
@@ -18,8 +17,8 @@ Ethical Hacker | TryHackMe India Rank 9th | Penetration Testing & Cybersecurity
 - 🏢 Enterprise Web, API & Infrastructure Security Assessments
 - 🧪 Strong focus on **Manual Exploitation**
 - 🏆 **#9 in INDIA & Top 1% Globally on TryHackMe**
-- 📫 Reach me at: <a href="mailto:sayyedfaiz350@gmail.com"><code>sayyedfaiz350@gmail.com</code></a>
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHViamNjanJmdTVydHcxcW9jM3VuOHJnNWwwbjQzM3RoZnFpN2FlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200">
 ---
 
 

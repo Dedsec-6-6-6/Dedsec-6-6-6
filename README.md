@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayyed Faiz</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm15eWh2MWlibnF2MHdocWI1NnRqYXZzajZ0eGM2MG84dGRzdDB4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm15eWh2MWlibnF2MHdocWI1NnRqYXZzajZ0eGM2MG84dGRzdDB4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif"  width="400"/>
 </p>
 
 <h4 align="center">
@@ -10,7 +10,7 @@ Ethical Hacker | TryHackMe India Rank 9th | Penetration Testing & Cybersecurity
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHViamNjanJmdTVydHcxcW9jM3VuOHJnNWwwbjQzM3RoZnFpN2FlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="260">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZHViamNjanJmdTVydHcxcW9jM3VuOHJnNWwwbjQzM3RoZnFpN2FlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="100">
 
 ## 🧠 About Me
 

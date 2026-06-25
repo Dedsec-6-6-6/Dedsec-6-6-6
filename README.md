@@ -1,65 +1,108 @@
 <h1 align="center">Hi 👋, I'm Sayyed Faiz</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm15eWh2MWlibnF2MHdocWI1NnRqYXZzajZ0eGM2MG84dGRzdDB4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif"  width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm15eWh2MWlibnF2MHdocWI1NnRqYXZzajZ0eGM2MG84dGRzdDB4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif" width="400"/>
 </p>
 
 <h4 align="center">
-Ethical Hacker | TryHackMe India Rank 9th | Penetration Testing & Cybersecurity
+Full Stack Developer | React.js | ASP.NET Core | SQL Server
 </h4>
 
 ---
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="260">
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🛡️ **Penetration Tester**
-- 🏢 Enterprise Web, API & Infrastructure Security Assessments
-- 🧪 Strong focus on **Manual Exploitation**
-- 🏆 **#9 in INDIA & Top 1% Globally on TryHackMe**
+* 🚀 Full Stack Developer
+* ⚛️ Building modern web applications using React.js
+* 🔥 Developing REST APIs with ASP.NET Core Web API
+* 🗄️ Working with SQL Server & Entity Framework Core
+* 📚 Continuously learning software development and system design
+* 🛡️ Background in Cybersecurity & Penetration Testing
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🛠️ Skills & Tools
+### Frontend
 
-**Offensive Security**  
-OWASP Top 10 • Business Logic Exploitation • Auth Bypass • EDR Evasion
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Bootstrap
+* Axios
 
-**Tools**  
-Burp Suite Pro • Nmap • Nessus • Metasploit • ffuf
+### Backend
 
-**Programming**  
-Python • HTML/CSS/JS • Bash • PowerShell
+* ASP.NET Core Web API
+* C#
+* Entity Framework Core
+* REST APIs
 
-**Platforms**  
-Active Directory • Windows Internals • Linux
+### Database
 
-**Methodologies**  
-OWASP 
+* SQL Server
+* LINQ
+
+### Tools
+
+* Visual Studio
+* VS Code
+* Git
+* GitHub
+* Swagger
+
+### Additional Skills
+
+* Cybersecurity Fundamentals
+* OWASP Top 10
+* API Security Testing
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 Inventory Management System
+
+Full-stack inventory management application built with:
+
+* React + Vite
+* ASP.NET Core Web API
+* Entity Framework Core
+* SQL Server
+* Bootstrap
+* Axios
+
+#### Features
+
+* Add Products
+* Edit Products
+* Delete Products
+* Search Products
+* Inventory Dashboard
+* Stock Monitoring
+* Responsive Design
+
 ---
 
 ## 🎓 Certifications
 
-- 🥇 OPSWAT - Introduction to CIP
-- 🥈 Alison - Diploma in Ethical Hacking
-- 📘 Alison - Diploma in Penetration Consultant
+* OPSWAT – Introduction to CIP
+* Alison – Diploma in Ethical Hacking
+* Alison – Diploma in Penetration Testing
 
 ---
 
 ## 🌍 Languages
 
-- Hindi — Native  
-- English — Full Professional Proficiency  
+* Hindi — Native
+* English — Professional Working Proficiency
 
 ---
 
 ## 📊 GitHub Stats
-
-<h3>
-  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35">
-</h3>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dedsec-6-6-6&theme=monokai" width="100%">
 
@@ -67,7 +110,7 @@ OWASP
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dedsec-6-6-6&theme=monokai" width="24%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dedsec-6-6-6&theme=monokai" width="24%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dedsec-6-6-6&theme=monokai" width="24%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dedsec-6-6-6&theme=monokai&utcOffset=8" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dedsec-6-6-6&theme=monokai" width="24%">
 </p>
 
 ---
@@ -78,21 +121,16 @@ OWASP
   <a href="https://www.linkedin.com/in/sayyed-faiz666">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="mailto:sayyedfaiz350@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://tryhackme.com/p/Dedsec666">
-    <img src="https://img.shields.io/badge/TryHackMe-9FEF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
+
+  <a href="https://github.com/Dedsec-6-6-6">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="90">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="90">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="90">
-</p>
-
----
+⭐ Always learning, building, and improving through real-world projects.

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayyed Faiz</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm15eWh2MWlibnF2MHdocWI1NnRqYXZzajZ0eGM2MG84dGRzdDB4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYxd2VvZDVuZHdmazFrc21qZjN1am9mb2loajc4bXY2YXZkbDFmNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="400"/>
 </p>
 
 <h4 align="center">
@@ -132,5 +132,9 @@ Full-stack inventory management application built with:
 </p>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,dotnet,cs,js,html,css,bootstrap,git,github,vscode,visualstudio,postman,linux,python&perline=7" />
+</p>
+
 
 ⭐ Always learning, building, and improving through real-world projects.

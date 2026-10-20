@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/Email-Contact-00ff9c?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Dedsec-6-6-6&style=for-the-badge&color=00ff9c&label=PROFILE+VISITORS" />
-
 </div>
 
 ---

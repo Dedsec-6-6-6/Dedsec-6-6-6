@@ -1,141 +1,159 @@
-<div align="center">
-
-  # Hi there, I'm Sayyed Faiz 👋
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+ASP.NET+Core+%7C+SQL+Server;Passionate+about+Cybersecurity+%26+Secure+Coding;Building+Scalable+Web+Applications" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/sayyed-faiz666">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:sayyedfaiz350@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://github.com/Dedsec-6-6-6">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXYxd2VvZDVuZHdmazFrc21qZjN1am9mb2loajc4bXY2YXZkbDFmNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="480" style="border-radius: 12px;"/>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <ul>
-        <li>🚀 <b>Full Stack Developer</b> specialized in building robust, end-to-end applications.</li>
-        <li>⚛️ Crafting dynamic, responsive user experiences with <b>React.js</b>.</li>
-        <li>🔥 Architecting scalable RESTful APIs with <b>ASP.NET Core Web API & C#</b>.</li>
-        <li>🗄️ Designing database schemas & queries using <b>SQL Server & Entity Framework Core</b>.</li>
-        <li>🛡️ Infusing development with a strong background in <b>Cybersecurity, OWASP Top 10, & API Security</b>.</li>
-        <li>🌱 Currently sharpening my skills in <b>System Design & Microservices</b>.</li>
-      </ul>
-      <p><b>🗣️ Languages:</b> Hindi (Native), English (Professional Working Proficiency)</p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="220" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack & Tooling
+# 👾 SAYYED FAIZ | Developer • Security Enthusiast
 
 <div align="center">
 
-  **Frontend**  
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,bootstrap&theme=dark" /><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:052e16,100:00ff9c&text=SAYYED%20FAIZ&fontColor=00FF9C&fontSize=55&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=65&descSize=15&animation=fadeIn" width="100%" />
 
-  **Backend & Database**  
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postman&theme=dark" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" style="vertical-align: top;" />
-  <br/><br/>
-
-  **Security & Tools**  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,python&theme=dark" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=%3E+Initializing+Developer+Profile...;%3E+Full+Stack+Developer;%3E+Cybersecurity+%26+Secure+Coding;%3E+Building.+Testing.+Securing.;%3E+Think+Like+An+Attacker.+Build+Like+An+Engineer." alt="Typing SVG" />
 
 <br/>
 
-<details>
-  <summary><b>🛡️ Security & Specialized Proficiencies (Click to expand)</b></summary>
-  <br/>
-  
-  - **Security Standards:** OWASP Top 10, Secure Coding Practices, Input Validation & Sanitization
-  - **Testing & Auditing:** API Security Testing, Vulnerability Assessment, Penetration Testing Basics
-  - **Architecture:** Clean Architecture, Dependency Injection, Repository Pattern, LINQ
-</details>
+<a href="https://github.com/Dedsec-6-6-6">
+<img src="https://img.shields.io/badge/GitHub-Dedsec--6--6--6-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />
+</a>
+<a href="https://www.linkedin.com/in/sayyed-faiz666">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sayyedfaiz350@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-00ff9c?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Dedsec-6-6-6&style=for-the-badge&color=00ff9c&label=PROFILE+VISITORS" />
+
+</div>
 
 ---
 
-### 🚀 Featured Project
+## `root@faiz:~$ whoami`
 
-<table>
-  <tr>
-    <td>
-      <h3>📦 Inventory Management System</h3>
-      <p>A full-stack, end-to-end inventory tracking and stock management solution designed for real-time monitoring and product lifecycle control.</p>
-      
-      **Tech Stack:** `React + Vite` • `ASP.NET Core Web API` • `EF Core` • `SQL Server` • `Bootstrap` • `Axios`
-      
-      - ⚡ **Product Lifecycle:** Full CRUD operations with instant UI updates.
-      - 🔍 **Smart Search & Filters:** Fast querying across warehouse inventories.
-      - 📊 **Analytics Dashboard:** Visual stock health indicators and low-stock warnings.
-      - 📱 **Responsive UI:** Tailored for both desktop monitoring and mobile checks.
-      
-      <!-- Optional: Add repository or live demo links if public -->
-      <!-- <p>
-        <a href="https://github.com/Dedsec-6-6-6/inventory-system"><b>View Repository →</b></a>
-      </p> -->
-    </td>
-  </tr>
-</table>
+```bash
+Name       : Sayyed Faiz
+Role       : Full Stack Developer
+Focus      : Cybersecurity & Secure Application Development
+Frontend   : React.js, JavaScript, HTML5, CSS3
+Backend    : C#, ASP.NET Core Web API
+Database   : Microsoft SQL Server, Entity Framework Core
+Interests  : API Security, OWASP Top 10, Ethical Hacking
+Mindset    : Build secure. Test thoroughly. Learn continuously.
+```
+
+I'm a developer who enjoys building modern web applications and understanding how to protect them against security vulnerabilities.
+
+My interests combine **full-stack engineering, secure coding, API security, and ethical hacking**. I focus on writing maintainable code, exploring application vulnerabilities in authorized environments, and developing practical projects that solve real problems.
+
+- ⚡ Building responsive applications and RESTful APIs.
+- 🛡️ Learning application security and secure development practices.
+- 🔍 Exploring web security, API testing, and vulnerability assessment.
+- 🧠 Improving my understanding of system design and software architecture.
+- 🎯 Practicing ethical hacking in authorized labs and testing environments.
 
 ---
 
-### 🎓 Certifications
+## `root@faiz:~$ tech --list`
+
+<div align="center">
+
+### ⚙️ Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,bootstrap,dotnet,cs,python&theme=dark" />
+
+### 🗄️ Database & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mssql,git,github,vscode,visualstudio,postman,linux&theme=dark" />
+
+### 🛡️ Security & Engineering
+
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-Application%20Security-00FF9C?style=for-the-badge&logo=owasp&logoColor=black" />
+<img src="https://img.shields.io/badge/API%20Security-Testing-00D2FF?style=for-the-badge&logo=fastapi&logoColor=black" />
+<img src="https://img.shields.io/badge/Secure%20Coding-Development-39FF14?style=for-the-badge&logo=securityscorecard&logoColor=black" />
+
+</div>
+
+**Areas I'm developing expertise in:**
+
+- Web application security and common vulnerability classes
+- Authentication, authorization, and access control
+- Input validation, output encoding, and SQL injection prevention
+- REST API testing and security configuration
+- Dependency management and secure software development
+- Linux fundamentals and networking concepts
+
+---
+
+## `root@faiz:~$ ls -la ./projects`
+
+### 📦 Inventory Management System
+
+A full-stack inventory application designed to manage products, monitor stock levels, and simplify inventory operations.
+
+**Technology:** React.js · Vite · ASP.NET Core Web API · C# · EF Core · SQL Server · Bootstrap · Axios
+
+- ⚡ Product creation, updates, deletion, and retrieval.
+- 🔎 Search and filtering for inventory records.
+- 📊 Dashboard indicators and low-stock monitoring.
+- 📱 Responsive interface for desktop and mobile screens.
+
+### 🔐 Application Security Lab
+
+A recommended project to build and document as part of my cybersecurity portfolio.
+
+**Planned stack:** ASP.NET Core · C# · SQL Server · OWASP ZAP · Postman
+
+- Authentication and role-based authorization.
+- Input validation and SQL injection prevention.
+- Secure API error handling and logging.
+- Rate limiting and security header configuration.
+- Documented security testing and remediation.
+
+> Status: Planned portfolio project. Add implementation details only after completing and testing the features.
+
+### 🧪 Security Research & Learning
+
+A space for documenting security concepts, safe lab exercises, defensive coding examples, and lessons learned from authorized testing.
+
+- OWASP vulnerability notes and prevention examples.
+- API security testing checklists.
+- Secure coding demonstrations.
+- Linux and networking practice notes.
+
+---
+
+## `root@faiz:~$ cat certifications.txt`
 
 - 🛡️ **OPSWAT** — Introduction to Critical Infrastructure Protection (CIP)
-- 🔒 **Alison** — Diploma in Ethical Hacking
+- 🔐 **Alison** — Diploma in Ethical Hacking
 - 🎯 **Alison** — Diploma in Penetration Testing
 
 ---
 
-### 📊 GitHub Activity & Metrics
+## `root@faiz:~$ git stats`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dedsec-6-6-6&theme=monokai&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dedsec-6-6-6&show_icons=true&theme=monokai&hide_border=true" width="48%" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dedsec-6-6-6&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00d2ff&text_color=c9d1d9&rank_icon=github" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dedsec-6-6-6&hide_border=true&background=0d1117&ring=00ff9c&fire=00d2ff&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e" />
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dedsec-6-6-6&bg_color=0d1117&color=00ff9c&line=00d2ff&point=ffffff&area=true&hide_border=true" />
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dedsec-6-6-6&theme=monokai" width="97%" />
-</div>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dedsec-6-6-6&theme=monokai" width="24%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dedsec-6-6-6&theme=monokai" width="24%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dedsec-6-6-6&theme=monokai" width="24%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dedsec-6-6-6&theme=monokai" width="24%">
-</p>
 
 ---
 
+## `root@faiz:~$ cat philosophy.txt`
+
 <div align="center">
 
-  *"Always learning, building, and breaking things responsibly."*
+```text
+[ THINK ]  Understand the system.
+[ BUILD  ]  Write clean, maintainable code.
+[ TEST   ]  Find weaknesses in authorized environments.
+[ SECURE ]  Fix vulnerabilities before attackers exploit them.
+[ REPEAT ]  Keep learning. Keep improving.
+```
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&height=70&section=footer"/>
+**"Code with purpose. Think critically. Secure by design."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:052e16,100:020617&height=100&section=footer" width="100%" />
 
 </div>

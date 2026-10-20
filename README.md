@@ -134,7 +134,6 @@ A space for documenting security concepts, safe lab exercises, defensive coding 
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dedsec-6-6-6&hide_border=true&background=0d1117&ring=00ff9c&fire=00d2ff&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e" />
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dedsec-6-6-6&bg_color=0d1117&color=00ff9c&line=00d2ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
